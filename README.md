@@ -1,2 +1,2 @@
-# Group-Project-01
+# GroupProject-1
 Stock price prediction using social media data
